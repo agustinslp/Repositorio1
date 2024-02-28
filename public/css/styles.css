@@ -17,12 +17,19 @@ main {
 .barraBusqueda {
   width: 50%;
 }
-
+.banner{
+  width: 100%;
+    height: 100px 
+}
 .busqueda {
   width: 90%;
 }
 .lupita {
   width: fit-content;
+}
+.imagen-separadora-box{
+  width: 100%;
+  height: 100px;
 }
 .articles {
   display: flex;
